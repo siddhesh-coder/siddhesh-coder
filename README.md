@@ -18,8 +18,8 @@ I am a Final year Computer Science student who is learning a lot of things right
  
 [**Nominate Me for GitHub Star!**](https://stars.github.com/nominate/)
 <br>
-<br>
 [**View My Portfolio**]("In Development")
+<br>
 [**View My Resume**](https://drive.google.com/file/d/1Qi_jHfiAoOKkZaoRf-eG-VnQ9q38SqM9/view?usp=sharing)
 
 ### Hobbies 😆:
