@@ -55,4 +55,15 @@ I am a Final year Computer Science student who is learning a lot of things right
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> </a>
 </p>
 
+<h2 align="center">
+    My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  </h2>
+   
+  <br>
+  <p align = "center">
+   <img  src = "https://github-readme-stats.vercel.app/api?username=siddhesh-coder&show_icons=true&theme=radical&line_height=27">
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-coder&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+   >
+  </p>
+
 <img width="50%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
