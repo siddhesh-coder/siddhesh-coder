@@ -29,7 +29,7 @@ I am a Final year Computer Science student who is learning a lot of things right
 - Gym🏋️‍♀️
 - Designing 
 
-- 🌱 I’m wearing four hats hats as a **Java Developer, Competitive programmer, HTML/CSS, SQL**.
+- 🌱 I’m wearing four hats as a **Java Developer, Competitive programmer, HTML/CSS, SQL.**
 
 - ⚡ Fun fact **:Can code for a whole night and still crave for more in morning**
 
