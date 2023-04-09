@@ -1,69 +1,24 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/afe6a249b2eba8b97c19bfcb4ea586cc2545033c/gifs/Hi.gif" height="40px" width="40px">I'm Siddhesh Bhosale</h1>
-<p>
-<h3 align="center">A passionate Software and Web Developer from India</h3>
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px" align="left">
-
-</p>
-
-<br>
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
-<br>
-<br>
-<br>
-I am a Final year Computer Science student who is learning a lot of things right now and trying to contribute to the community.
-
-> I am not a jack of all trades, I am a master of many. I dont feel  there is anything I can't do I want to <br>- Evel Kniewel
- 
-[**Nominate Me for GitHub Star!**](https://stars.github.com/nominate/)
-<br>
-[**View My Portfolio**](https://siddhesh-coder.github.io/SiddheshsPortfolio.github.io/)
-<br>
-[**View My Resume**](https://drive.google.com/file/d/1Qi_jHfiAoOKkZaoRf-eG-VnQ9q38SqM9/view?usp=sharing)
-
-### Hobbies 😆:
-
-- Coding 👨‍💻
-- Gaming🎮
-- Gym🏋️‍♀️
-- Designing 
-
-- 🌱 I’m wearing three hats as a **Competitive programmer, Software Developer and Web Developer.**
-
-- ⚡ Fun fact **: Can code for a whole night and still crave for more in morning**
-
- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px" align="right">
+# 💫 About Me:
+🔭 I’m currently working on my Web 3.0 project<br>🌱 I’m currently learning JavaScript and React.js<br>⚡ Can code for a whole night and still crave for more in morning
 
 
-<h2 align="left">Reach me on:
-<img align="right" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
-<p align="left">
-  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhesh-bhosale2000/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bhosalesiddhesh2000) 
 
-<a href="mailto:bhosalesiddhesh2000.gmail.com?subject=Hello%20Siddhesh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.linkedin.com/in/siddhesh-bhosale-99260a1b3/"><img src="https://img.shields.io/badge/siddhesh-bhosale-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-<a href="https://medium.com/@bhosalesiddhesh2000"><img src="https://img.shields.io/badge/@Bhosalesiddhesh-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=siddhesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-coder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siddhesh-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=siddhesh-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/640px-Repl.it_logo.svg.png" width="40" height="40"/> </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=siddhesh-coder&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">
-    My Github Stats
-  </h2>
-   
-  <br>
-  <p align = "center">
-   <img  src = "https://github-readme-stats.vercel.app/api?username=siddhesh-coder&show_icons=true&theme=radical&line_height=27">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-coder&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-  </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
