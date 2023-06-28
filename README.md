@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Web 3.0 project<br>🌱 I’m currently learning JavaScript and React.js<br>⚡ Can code for a whole night and still crave for more in morning
+🔭 I’m currently working on my Skills<br>⚡ Can code for a whole night and still crave for more in morning
 
 
 ## 🌐 Socials:
