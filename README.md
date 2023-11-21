@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=siddhesh-coder&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on my Skills<br>⚡ Can code for a whole night and still crave for more in morning
 
@@ -17,8 +20,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=siddhesh-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=siddhesh-coder&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
