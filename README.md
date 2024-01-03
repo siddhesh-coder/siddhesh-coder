@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=siddhesh-coder&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 # Hi, I'm Siddhesh! 👋
-![Alt Text](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47i9gw2ciss7bdtzkv8tqltnqmr1ov32grbxd8kys6&ep=v1_gifs_search&rid=giphy.gif&ct=g){autoplay=true}
+<img src="https://github.com/siddhesh-coder/siddhesh-coder/assets/72059095/97ae758a-23b6-4270-8083-32c8be6d38d8" alt="new g" height="400" width="1000">
 
 ## 🚀 About Me
 I'm a full stack web developer...
