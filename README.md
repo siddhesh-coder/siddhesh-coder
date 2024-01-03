@@ -1,24 +1,29 @@
----
+
 [![](https://visitcount.itsvg.in/api?id=siddhesh-coder&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-# 💫 About Me:
-🔭 I’m currently working on my Skills<br>⚡ Can code for a whole night and still crave for more in morning
+# Hi, I'm Siddhesh! 👋
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhesh-bhosale2000/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bhosalesiddhesh2000) 
+## 🚀 About Me
+I'm a full stack web developer...
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddhesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠 Skills
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&&logoColor=fff&style=flat-square) ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square) ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat-square) ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
+## 💻 Tech Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddhesh-coder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Client:** 
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square) ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=000&style=flat-square)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siddhesh-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Server:**
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-FF0000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://siddhesh-coder.github.io/SiddheshsPortfolio.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-bhosale2000/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Siddhes16213591)
+[![leetcode](https://img.shields.io/badge/leetcode-FFC300?style=for-the-badge&logo=leetcode&logoColor=000)](https://leetcode.com/bhosalesiddhesh2000/)
+[![leetcode](https://img.shields.io/badge/GeeksforGeeks-228B22?style=for-the-badge&logo=geeksforgeeks&logoColor=000)](https://auth.geeksforgeeks.org/user/bhosalesiddhesh2000)
+
+
+## 📊 Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-coder&theme=dark&hide_border=false)
