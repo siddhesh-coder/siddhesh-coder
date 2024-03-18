@@ -4,7 +4,7 @@
 <img src="https://github.com/siddhesh-coder/siddhesh-coder/assets/72059095/97ae758a-23b6-4270-8083-32c8be6d38d8" alt="new g" height="400" width="1000">
 
 ## 🚀 About Me
-I'm a full stack web developer...
+I'm a React.js Developer...
 
 ## 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&&logoColor=fff&style=flat-square) ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square) ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat-square) ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
